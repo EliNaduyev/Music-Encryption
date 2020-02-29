@@ -14,4 +14,6 @@ In terminal:
 pip install -r requirements.txt
 ```
 
+![](music_encryption_pic.png)
+
 
